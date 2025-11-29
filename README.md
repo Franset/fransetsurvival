@@ -1,2 +1,2 @@
-# fransetsurvival
+# fransetsurvival [WIP]
 Сборка выживания для 1.21.8 с уникальными идеями.
